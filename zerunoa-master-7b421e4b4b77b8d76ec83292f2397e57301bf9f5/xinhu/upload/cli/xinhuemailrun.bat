@@ -1,0 +1,3 @@
+@echo off
+cd E:\zerunoa-master-7b421e4b4b77b8d76ec83292f2397e57301bf9f5\zerunoa-master-7b421e4b4b77b8d76ec83292f2397e57301bf9f5\xinhu	
+php E:\zerunoa-master-7b421e4b4b77b8d76ec83292f2397e57301bf9f5\zerunoa-master-7b421e4b4b77b8d76ec83292f2397e57301bf9f5\xinhu\task.php email
